@@ -5,7 +5,7 @@
 ##### Hi! I'm a cybersecurity engineering student looking for vulnerabilities and fun in the deepest part of any system... I like to discover how things work, why they work, how to build and destroy them...
 ------
 
-### Programming Languages I code on:
+### Programming Languages I work with:
 
 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" /> 
 
